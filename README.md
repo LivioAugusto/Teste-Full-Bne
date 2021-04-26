@@ -2,7 +2,9 @@
 Test Fullstack to Bne
 
 ## Install
-    $ npm install in backend and frontend
+    -Comando para instalar tanto os pacotes do backend quanto frontend
+    $ npm install 
 
 ## Start & watch
-    $ npm start execute back and front
+    -Comando de execução de ambos
+    $ npm start
